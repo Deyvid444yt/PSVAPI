@@ -2,7 +2,7 @@
   {
     "nome": "GTA SAN",
     "formato": "não definido",
-    "sinopse": "Aviso caso pida senha coloque essa: \n\nSinopse:\nGrand Theft Auto: San Andreas é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar North e publicado pela Rockstar Games. É o quinto título principal da série Grand Theft Auto e foi lançado em outubro de 2004 para PlayStation 2 e em junho de 2005 para Xbox e Microsoft Windows",
+    "sinopse": "Aviso caso pida senha coloque essa: xtronicrj\n\nSinopse:\nGrand Theft Auto: San Andreas é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar North e publicado pela Rockstar Games. É o quinto título principal da série Grand Theft Auto e foi lançado em outubro de 2004 para PlayStation 2 e em junho de 2005 para Xbox e Microsoft Windows",
     "tamanho": "TAMANHO 1.7GB",
     "capa": "https://upload.wikimedia.org/wikipedia/pt/d/d3/Grand_Theft_Auto_San_Andreas_capa.png",
     "banner": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTRtVglHbgmXa3ogLees2G6mlvDXzh1uj3KJA\u0026usqp\u003dCAU",
@@ -10,7 +10,22 @@
     "banner3": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRm0LKaL30LQCY1Bqei-E0pQu7g2upwN_vIeA\u0026usqp\u003dCAU",
     "game": "https://doc-0c-3g-docs.googleusercontent.com/docs/securesc/m0uqk98eibo4opdvgjcdu8v527eu6rkk/v0f59te4v398laeahrnelaiptqmkt6pl/1676584350000/12507597465452172446/18224398373798944874Z/17Wus8L-WH9mEclvZJV2JpLeWT-Ax_Ewk?e\u003ddownload\u0026uuid\u003dbdd6a438-850f-4a58-8d44-101ea0239064\u0026nonce\u003dhj22fhj7vgj96\u0026user\u003d18224398373798944874Z\u0026hash\u003d6pt0qgh519tee7q77mn7b0hvdesiihkr",
     "drive": "https://drive.google.com/file/d/17Wus8L-WH9mEclvZJV2JpLeWT-Ax_Ewk/view",
+    "drive work": " ",
     "work": "Talvez esteja no arquivo compactado"
+  },
+  {
+    "nome": "Hollow Knight trial ",
+    "formato": "não definido",
+    "sinopse": "Forje seu caminho em Hollow Knight! Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. Explore cavernas serpenteantes, lute contra criaturas malignas e alie-se a insetos bizarros num estilo clássico 2D desenhado à mão.",
+    "tamanho": "TAMANHO 225MB",
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTKre-joyUs2ReD9vWJF-yPojORXZwn0BFQpw\u0026usqp\u003dCAU",
+    "banner": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617763599729-KB821M5EQA818FABUXO3/lake_of_unn.jpg",
+    "banner2": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTJj5tJi_af-3NH_FkekzHYX3rSYiNwn0pUnA\u0026usqp\u003dCAU",
+    "banner3": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTTGKLBME_eOUujMWRp1IIQDDtBAzHuKxRYKA\u0026usqp\u003dCAU",
+    "game": "https://drive.google.com/file/d/1aAkt0Mba71BE1OYHNT0zugeAJjSgXIE7/view",
+    "drive": " ",
+    "drive work": " ",
+    "work": " "
   },
   {
     "nome": " ",
@@ -23,6 +38,7 @@
     "banner3": "",
     "game": " ",
     "drive": " ",
+    "drive work": " ",
     "work": " "
   }
 ]
